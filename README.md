@@ -2,7 +2,7 @@
 
 This example works with callback function. This example works well for study and improve your nowledge about this awaesome tecnology.
 
-## Try to do buy your self
+## Try to do it yourself
 
 For a business application, this feature should be more robust. So try to do this:
 
